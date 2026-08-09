@@ -5,6 +5,10 @@ Uma solução de Business Intelligence concebida para acompanhar a execução or
 >
 > https://app.powerbi.com/view?r=eyJrIjoiNmY3NmEyNTEtOGNhOS00ZDEwLWJjZDEtNjBkYTQ4MjQ3N2I0IiwidCI6IjNhNzhiMGNkLTdjOGUtNDkyOS04M2Q1LTE5MGE2Y2MwMTM2NSJ9
 
+![Painel Orçamentário](screenshot/Captura%20de%20tela%202026-08-08%20212146.png)
+![Painel de Acompanhamento Contratual](screenshot/Captura%20de%20tela%202026-08-08%20212300.png)
+![Painel de Acompanhamento de Restos a Pagar](screenshot/Captura%20de%20tela%202026-08-08%20212352.png)
+
 ---
 
 # O problema
